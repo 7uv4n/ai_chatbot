@@ -1,0 +1,28 @@
+{ "intents":[
+    {
+    "tag":"greetings", 
+    "patterns":["hello","hi","hey","good day","Greetings","what's up","how is it going?"],
+    "responses":["Hello","Hey!","What can I do for you"]
+    },
+    {
+    "tag":"goodbye", 
+    "patterns":["c u","see you later","see you","goodbye","bye","I am leaving","see ya","see ya"],
+    "responses":["Sad to see you go :(","Goodbye!","See ya later!"]
+    },
+    {
+    "tag":"age", 
+    "patterns":["how old","how old are you","what is your age","age?"],
+    "responses":["I am 22 years","22 years"]
+    },
+    {
+    "tag":"name", 
+    "patterns":["What is your name","how should i call you","whats your name?","Who are you?"],
+    "responses":["Call me JARVIS","I'm JARVIS"]
+    },
+    {
+    "tag":"projects", 
+    "patterns":["what projects undergoing?","projects doing","current undergoing projects"],
+    "responses":["The project AI Chatbot is undergoing"]
+    },
+]
+}
