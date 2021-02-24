@@ -23,6 +23,6 @@
     "tag":"projects", 
     "patterns":["what projects undergoing?","projects doing","current undergoing projects"],
     "responses":["The project AI Chatbot is undergoing"]
-    },
+    }
 ]
 }
